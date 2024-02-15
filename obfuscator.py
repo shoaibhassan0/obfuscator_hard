@@ -37,7 +37,8 @@ __banner__=(f"""{biru}
 
    {p}TOOLS {h}COMPILE {b}AND {h}OBFUSCATE 		      {p}V.1.0
 {b}============================================================
-   {p}Autor    : {b}shoaibhassana
+   {p}Autor    : {b}Shoaib Hassan
+   {p}Telegram : {b}shoaibhassana
    {p}github   : {b}https://github.com/shoaibhassan0
 {b}============================================================  	
 ╔═╗┬ ┬┌┬┐┬ ┬┌─┐┌┐┌    
